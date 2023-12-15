@@ -1,0 +1,14 @@
+.f1, 
+.f2{
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman", sans-serif;
+}
+
+.f1 {
+    color: white;
+    background: black;
+}
+
+.f2 {
+    background: yellowgreen;
+}
