@@ -8,10 +8,17 @@ img {
 }
 
 .title {
+  display:flex;
   font-size: 36px;
   font-weight: 900;
+  justify-content: center;
 }
 
+.jupiter {
+  display:flex;
+  justify-content: space-between;
+  gap: 52px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
